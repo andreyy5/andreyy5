@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 Trabalho com adminstração de banco de dados e como analista de sistemas.
-- 🌱 Atualmente estudando sobre desenvolvimento Web, com as tecnologias HTML5, CSS3, JAVASCRIPT, REACT.   
+- 🌱 Atualmente estudando sobre desenvolvimento Web, com as tecnologias HTML5, CSS3, JAVASCRIPT, E REACT.   
  
 
 
