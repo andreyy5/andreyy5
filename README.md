@@ -3,9 +3,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Trabalho com Delphi e Dart (Flutter).
-- 🌱 Estou aprendendo mais sobre Flutter, React, Java, HTML5, CSS3.  
-- 😄 Ele/Dele 
+- 🔭 Trabalho com adminstração de banco de dados e como analista de sistemas.
+- 🌱 Atualmente estudando sobre desenvolvimento Web, com as tecnologias HTML5, CSS3, JAVASCRIPT, REACT.   
+ 
 
 
 <div align="center">
