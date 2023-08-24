@@ -1,10 +1,12 @@
 ### Olá, seja bem-vindo(a)! 👋
 
 
-Here are some ideas to get you started:
 
-- 🔭 Trabalho com adminstração de banco de dados e como analista de sistemas.
-- 🌱 Atualmente estudando sobre desenvolvimento Web, com as tecnologias HTML5, CSS3, JAVASCRIPT, E REACT.   
+
+- 🔭 Trabalho como analista de Sistemas e desenvolvedor front-end.
+- 👨‍💻 Atualmente estudando sobre desenvolvimento Web, com as tecnologias HTML5, CSS3, JAVASCRIPT, E REACT.
+- 🎲 Domino consultas, manipulações e alterações em bancos de dados relacionais em diversas SGBDS.
+- 🖥 Já trabalhei com design tanto como social media como design de interfaces. 
  
 
 
